@@ -1,7 +1,3 @@
-Of course! Here's a sample README file that you can use as a starting point for your web3 backend project:
-
----
-
 # Web3 Backend
 
 This repository contains a backend server built using Express.js for interacting with Ethereum networks and managing Ethereum wallet-related operations. The server exposes various routes to interact with Ethereum wallets, check balances, and perform transactions on different networks.
